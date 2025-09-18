@@ -110,6 +110,7 @@
 
 <h3 align="center">🐍 Snake Animation</h3>
 <p align="center">
-  <img src="https://github.com/TejasShirsath/TejasShirsath/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake Animation Light Mode" />
-  <img src="https://github.com/TejasShirsath/TejasShirsath/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark Mode" />
+  <img src="https://github.com/TejasShirsath/TejasShirsath/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake Animation Light Mode" />
+  <img src="https://github.com/TejasShirsath/TejasShirsath/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark Mode" />
 </p>
+
