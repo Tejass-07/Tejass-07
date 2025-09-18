@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejas Shirsath</h1>
-<h3 align="center">🚀 Full Stack Developer | Medical AI Enthusiast | Competitive Programmer</h3>
+<h3 align="center">🚀 Full Stack Developer | Aspiring Software Engineer | Java | DSA | Cloud | Cybersecurity & AI Enthusiast</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TejasShirsath&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /> 
@@ -110,7 +111,7 @@
 
 <h3 align="center">🐍 Snake Animation</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/TejasShirsath/TejasShirsath/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-<img src="https://raw.githubusercontent.com/TejasShirsath/TejasShirsath/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://github.com/shubhamshinde6762/shubhamshinde6762/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake Animation Light Mode" />
+  <img src="https://github.com/shubhamshinde6762/shubhamshinde6762/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark Mode" />
 </p>
 
